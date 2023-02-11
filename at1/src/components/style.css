@@ -1,0 +1,12 @@
+.txt{
+    /* Frame 1 */
+
+position: relative;
+width: 250px;
+height: 100px;
+
+background: #A05A5A;
+border-radius: 30px;
+
+margin-bottom: 10px;
+}
